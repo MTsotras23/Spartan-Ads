@@ -34,6 +34,13 @@ body {
   margin-left: 100px;
   margin-right: 100px;
 }
+.genericBtn {
+  color: white;
+  padding:10px;
+  background: #9D0526;
+  border-radius: 10px;
+  border: 0px;
+}
 ol {
   margin-left:20%;
   margin-right:20%;
